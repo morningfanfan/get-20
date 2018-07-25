@@ -8,7 +8,7 @@ You control the ball with arrow keys.
 
 RULE: Eat cubes in the same color as your ball, and avoid the black ones!
 
-(Remeber, the moving directions of all of the cubes will be randomly)
+(Remeber, the moving directions of all of the cubes will be random)
 
 You LOSE when you touch the black bombs, and you WIN when you collect 20 points!
 
